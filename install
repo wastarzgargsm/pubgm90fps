@@ -1,0 +1,8 @@
+#!/data/data/com.termux/files/usr/bin/bash
+termux-setup-storage
+echo -e "\e[42mcoping Temp Files To Temp Data\e[m"
+sleep 3
+cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+echo -e "\e[42mcoping \e[m"
+sleep 
+echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
