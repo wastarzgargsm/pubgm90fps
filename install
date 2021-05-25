@@ -6,3 +6,4 @@ cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.tencent.ig/files
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
+am start --user 0 -n com.tencent.ig/com.epicgames.ue4.SplashActivity
