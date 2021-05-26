@@ -38,6 +38,7 @@ clear
 elif [ $n = 4 ] || [ $n = 04 ]
 then
 clear
+tput reset
 exit
 else
 echo -e  "\e[33m[\e[31m!\e[33m]\e[31m Invalid option try again \e[m"
