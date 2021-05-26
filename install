@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+pkg install ncurses-utils
 termux-setup-storage
 echo -e "\e[42mcoping Temp Files To Temp Data\e[m"
 sleep 3
@@ -17,6 +18,7 @@ echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
 am start --user 0 -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+clear
 elif [ $n = 2 ] || [ $n = 02 ]
 then
 cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
@@ -24,6 +26,7 @@ echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
 am start --user 0 -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
+clear
 elif [ $n = 3 ] || [ $n = 03 ]
 then
 cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
@@ -31,6 +34,11 @@ echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
 am start --user 0 -n com.vng.pubgmobile/com.epicgames.ue4.SplashActivity
+clear
+elif [ $n = 4 ] || [ $n = 04 ]
+then
+clear
+exit
 else
 echo -e  "\e[33m[\e[31m!\e[33m]\e[31m Invalid option try again \e[m"
  sleep 2
