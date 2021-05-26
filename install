@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-pkg install ncurses-utils
+pkg install ncurses-utils -y
 termux-setup-storage
 echo -e "\e[42mcoping Temp Files To Temp Data\e[m"
 sleep 3
