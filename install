@@ -1,5 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install ncurses-utils -y
+pkg install termux-api -y
+termux-dialog -t "Do you want to continue 
+Ans in yes or no" | grep -q "yes"; [ $? -ne 0 ] && exit
 termux-setup-storage
 echo -e "\e[42mcoping Temp Files To Temp Data\e[m"
 sleep 3
@@ -17,6 +20,8 @@ cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.tencent.ig/files
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
+termux-dialog -t "Do you want to Open Game Directly 
+Ans in yes or no" | grep -q "yes"; [ $? -ne 0 ] && exit
 am start --user 0 -n com.tencent.ig/com.epicgames.ue4.SplashActivity
 clear
 elif [ $n = 2 ] || [ $n = 02 ]
@@ -25,6 +30,8 @@ cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.pubg.krmobile/fi
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
+termux-dialog -t "Do you want to Open Game Directly 
+Ans in yes or no" | grep -q "yes"; [ $? -ne 0 ] && exit
 am start --user 0 -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
 clear
 elif [ $n = 3 ] || [ $n = 03 ]
@@ -33,6 +40,8 @@ cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.vng.pubgmobile/f
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
+termux-dialog -t "Do you want to Open Game Directly 
+Ans in yes or no" | grep -q "yes"; [ $? -ne 0 ] && exit
 am start --user 0 -n com.vng.pubgmobile/com.epicgames.ue4.SplashActivity
 clear
 elif [ $n = 4 ] || [ $n = 04 ]
