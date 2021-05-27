@@ -1,6 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install ncurses-utils -y
 pkg install termux-api -y
+clear
 termux-dialog -t "Do you want to continue 
 Ans in yes or no" | grep -q "yes"; [ $? -ne 0 ] && exit
 termux-setup-storage
@@ -16,7 +17,7 @@ read -p $'\e[32m>> select Your Option:\e[m ' n
 tput civis
 if [ $n = 1 ] || [ $n = 01 ]
 then
-cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+cp -r ⠀/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
@@ -26,7 +27,7 @@ am start --user 0 -n com.tencent.ig/com.epicgames.ue4.SplashActivity
 clear
 elif [ $n = 2 ] || [ $n = 02 ]
 then
-cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+cp -r ⠀/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
@@ -36,7 +37,7 @@ am start --user 0 -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
 clear
 elif [ $n = 3 ] || [ $n = 03 ]
 then
-cp -r .data/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+cp -r ⠀/game_patch_1.4.0.14924.pak /sdcard/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
 echo -e "\e[42mcoping \e[m"
 sleep 3
 echo -e "\e[41mcomplete Now Enjoy The Game With 90 fps\e[m"
