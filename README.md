@@ -1,12 +1,13 @@
 ### Hii I am Hk4crprasad
-<h2> pubgm90fps
+<h1> pubgm90fps 
 <img src="https://github.com/hk4crprasad/ph/raw/master/giphy.gif" width="50"></h2>
+</h>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hk4crprasad.hk4crprasad)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 * Play pubg 90fps
+
 <h4>
 <p align="center">
 <a href="https://youtu.be/RatwD6Dkeho"><img src="https://github.com/hk4crprasad/ph/raw/master/IMG_20210606_205222.jpg" width="800px">
