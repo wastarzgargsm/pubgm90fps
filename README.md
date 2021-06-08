@@ -8,7 +8,7 @@
 
 * Play pubg 90fps
 
-<p></p>(https://youtu.be/RatwD6Dkeho)<img src="https://github.com/hk4crprasad/ph/raw/master/IMG_20210606_205222.jpg">
+<p></p>(https://youtu.be/RatwD6Dkeho)<img src="https://github.com/hk4crprasad/ph/raw/master/IMG_20210606_205222.jpg" width="800px">
 
 * ```Click above image to see video tutorial``` 👆
 ```ruby 
