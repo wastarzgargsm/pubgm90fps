@@ -7,7 +7,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 * Play pubg 90fps
-<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://youtu.be/RatwD6Dkeho" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" width="1800" height="300" src="https://1.bp.blogspot.com/-0DfPKAUdTF4/YLzoqysuqFI/AAAAAAAAAjI/V3LQgTx9nBwkZmjyam2QVZr5Qk0Ynqc_ACNcBGAsYHQ/w400-h246/IMG_20210606_205222.jpg" width="1200px"/></a></div><br />&nbsp;<p></p>
+<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://youtu.be/RatwD6Dkeho" imageanchor="1" style="margin-left: 1em; margin-right: 1em;" target="_blank"><img border="0" width="1800px" height="300px" src="https://1.bp.blogspot.com/-0DfPKAUdTF4/YLzoqysuqFI/AAAAAAAAAjI/V3LQgTx9nBwkZmjyam2QVZr5Qk0Ynqc_ACNcBGAsYHQ/w400-h246/IMG_20210606_205222.jpg" width="1200px"/></a></div><br />&nbsp;<p></p>
 
 * ```Click above image to see video tutorial``` 👆
 ```ruby 
