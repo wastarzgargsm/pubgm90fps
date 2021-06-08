@@ -13,9 +13,7 @@
 ```ruby 
 Or 👇🏻
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=19A3F7&lines=Thanks For Install My Tool)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visit+my+tool;Have+A+Happy+Day)](https://git.io/typing-svg)
 
 * Click [here](https://youtu.be/Tywuwl2w8UU) to go youtube
 
