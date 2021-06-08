@@ -1,7 +1,6 @@
 <h2>
 # pubgm90fps
-
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img src="https://github.com/hk4crprasad/ph/raw/master/giphy.gif" width="50"></h2>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hk4crprasad.hk4crprasad)
 
