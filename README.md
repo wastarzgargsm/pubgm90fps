@@ -14,7 +14,7 @@ Or 👇🏻
 
 * `This is look like as` 👇
 
-```ruby
+```php
 Do you want to continue ? (y/n) y
 coping Temp Files To Temp Data
 [01] Pubg Mobile Global 1.4
@@ -51,7 +51,7 @@ coping Temp Files To Temp Data
 
 `or Simple copy the below command`
 
-```ruby
+```shell
 
 apt update -y ; apt upgrade -y ; apt install git -y ; git clone https://github.com/hk4crprasad/pubgm90fps.git ; cd pubgm90fps ; bash install ; gfx
 
