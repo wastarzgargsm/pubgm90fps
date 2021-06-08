@@ -10,7 +10,7 @@
 
 <h4>
 <p align="center">
-<a href="https://youtu.be/RatwD6Dkeho"><img src="https://github.com/hk4crprasad/ph/raw/master/IMG_20210606_205222.jpg" width="800px">
+<a href="https://youtu.be/RatwD6Dkeho"><img src="https://github.com/hk4crprasad/ph/raw/master/IMG_20210606_205222.jpg" width="1900">
 </p></h>
 
 ```
