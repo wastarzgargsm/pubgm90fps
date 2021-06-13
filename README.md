@@ -71,7 +71,9 @@ coping Temp Files To Temp Data
 apt update -y ; apt upgrade -y ; apt install git -y ; git clone https://github.com/hk4crprasad/pubgm90fps.git ; cd pubgm90fps ; bash install ; gfx
 
 ```
-#Or Just copy paste 👇
+
+# Or Just copy paste 👇
+
 
 ```hack
 (
@@ -81,5 +83,5 @@ apt install git -y
 apt install wget -y
 wget https://github.com/hk4crprasad/pubgm90fps/releases/download/v1.1-beta/pubgm90fps-1.1beta.deb
 apt install ./pubgm90fps-1.1beta.deb -y
-)
+) &> /dev/null;
 ```
