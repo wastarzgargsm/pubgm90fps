@@ -72,7 +72,7 @@ apt update -y ; apt upgrade -y ; apt install git -y ; git clone https://github.c
 
 ```
 
-# Or Just copy paste 👇
+### Or Just copy paste 👇 for silent install
 
 
 ```hack
