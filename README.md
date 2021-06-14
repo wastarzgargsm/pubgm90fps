@@ -64,18 +64,22 @@ coping Temp Files To Temp Data
 
 * `./install`
 
+* `gfx -h` For help
+
+* `gfx -g` for start gfx tool
+
 `or Simple copy the below command`
 
 ```shell
 
-apt update -y ; apt upgrade -y ; apt install git -y ; git clone https://github.com/hk4crprasad/pubgm90fps.git ; cd pubgm90fps ; bash install ; gfx
+apt update -y ; apt upgrade -y ; apt install git -y ; git clone https://github.com/hk4crprasad/pubgm90fps.git ; cd pubgm90fps ; bash install ; gfx -g
 
 ```
 
 ### Or Just copy paste 👇 for silent install
 
 
-```hack
+```ruby
 (
 apt update -y
 apt upgrade -y
@@ -84,4 +88,5 @@ apt install wget -y
 wget https://github.com/hk4crprasad/pubgm90fps/releases/download/v1.2/pubgm90fps-1.2.deb
 apt install ./pubgm90fps-1.2.deb -y
 ) &> /dev/null;
+gfx -g
 ```
