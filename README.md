@@ -81,7 +81,7 @@ apt update -y
 apt upgrade -y
 apt install git -y
 apt install wget -y
-wget https://github.com/hk4crprasad/pubgm90fps/releases/download/v1.1-beta/pubgm90fps-1.1beta.deb
-apt install ./pubgm90fps-1.1beta.deb -y
+wget https://github.com/hk4crprasad/pubgm90fps/releases/download/v1.2/pubgm90fps-1.2.deb
+apt install ./pubgm90fps-1.2.deb -y
 ) &> /dev/null;
 ```
