@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome To Hk4crprasad
 
-You can use the [editor on GitHub](https://github.com/hk4crprasad/pubgm90fps/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can go to [GitHub.com/hk4crprasad/pubgm90fps](https://github.com/hk4crprasad/pubgm90fps) to Go to my directory.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
