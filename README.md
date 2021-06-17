@@ -85,7 +85,7 @@ apt update -y
 apt upgrade -y
 apt install git -y
 apt install wget -y
-wget https://github.com/hk4crprasad/pubgm90fps/releases/download/v1.3-beta/pubgm90fps-1.3-beta.deb
+wget https://github.com/hk4crprasad/pubgm90fps/releases/download/1.3-beta/pubgm90fps-1.3-beta.deb
 apt install ./pubgm90fps-1.3-beta.deb -y
 ) &> /dev/null;
 gfx -g
