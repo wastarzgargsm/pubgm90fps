@@ -672,7 +672,7 @@ printf "\n\n\n\n\n\n"
 }
 while [[ "$#" -gt 0 ]]; do
     case $1 in
-        -h|--help|help) Help; shift ;;
+        -h|--help|help) echo; shift ;;
         -g|gfx|--gfx) gfx; shift ;;
         -x|--git|git) clear; git; shift ;;
         -v|--version|version) clear; version; shift ;;
