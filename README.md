@@ -46,7 +46,7 @@ coping Temp Files To Temp Data
 ## Tools Overview
 | Tool | Tool Proof	|
 | ------------  | ------------ |
-|![Index](https://github.com/hk4crprasad/ph/raw/master/install.jpg)|![f](https://github.com/hk4crprasad/ph/raw/master/tool.jpg)
+|![Index](https://github.com/hk4crprasad/ph/blob/master/rest.jpg)|![f](https://github.com/hk4crprasad/ph/raw/master/tool.jpg)
 
 ### Installation in Termux
 
