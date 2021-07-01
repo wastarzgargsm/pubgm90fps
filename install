@@ -1,3 +1,22 @@
-z="
-";Mz='x/fi';EBz='[00m';SBz='"\e[';TBz='31m[';lBz='0 /d';wz=' / 1';QBz='09';CBz='-${b';JBz='((i ';qBz='mux/';Ez='cp -';Pz='bin';cz=' "';ABz='0;32';Sz=' ()';Kz='om.t';vz='ngth';Vz=' -e ';mz='whil';KBz='+= R';cBz=' any';HBz=':0:n';Gz='gfx ';MBz='M%5+';Yz='" in';Zz='stal';NBz='2))';jz='#bar';PBz='p 0.';Bz='d 70';nBz='data';Fz='r ⠀ ';GBz='{bar';kz='}';YBz='[32m';bz='....';tz='(i*b';lz='i=0';az='ling';qz='); d';Tz='{';Cz='0 gf';dBz='wher';bBz='x at';Wz='"\n"';OBz='slee';jBz='e[m ';Uz='echo';kBz='"';LBz='ANDO';Oz='usr/';rz='o';XBz='m]\e';xz='00))';Lz='ermu';Az='chmo';hBz=' 90f';pBz='.ter';Jz='ta/c';gz='barl';fBz=' ins';rBz='file';oBz='/com';WBz='e[31';Rz='long';Nz='les/';Xz='bar=';Hz='/dat';uBz='n/gf';pz='100)';tBz='r/bi';yz='\e[0';nz='e ((';sBz='s/us';iBz='ps \';DBz='}s\e';dz='prin';eBz='e to';sz='n=$(';hz='engt';mBz='ata/';ez='tf "';uz='arle';Qz='spin';ZBz=' Typ';Iz='a/da';aBz='e gf';IBz='}"';iz='h=${';gBz='tall';RBz='done';UBz='\e[3';oz='i < ';FBz='" "$';fz='\n"';BBz='m\r%';VBz='3m-\';Dz='x';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$z$Tz$z$Uz$Vz$Wz$z$Xz$Yz$Zz$az$bz$bz$bz$bz$bz$bz$bz$bz$bz$bz$cz$z$dz$ez$fz$z$gz$hz$iz$jz$kz$z$lz$z$mz$nz$oz$pz$qz$rz$z$sz$tz$uz$vz$wz$xz$z$dz$ez$yz$ABz$BBz$CBz$uz$vz$DBz$EBz$FBz$GBz$HBz$IBz$z$JBz$KBz$LBz$MBz$NBz$z$OBz$PBz$QBz$z$RBz$z$kz$z$Qz$Rz$z$Uz$Vz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$z$Az$Bz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$Dz"
+#!/data/data/com.termux/files/usr/bin/bash
+apt update -y ; apt upgrade -y ; apt install git -y
+apt install ncurses-utils -y
+chmod 700 gfx
+cp -r ⠀ gfx /data/data/com.termux/files/usr/bin
+spinlong ()
+{
+echo -e "\n"
+bar=" installing........................................ "
+printf "\n"
+barlength=${#bar}
+i=0
+while ((i < 100)); do
+n=$((i*barlength / 100))
+printf "\e[00;32m\r%-${barlength}s\e[00m" "${bar:0:n}"
+((i += RANDOM%5+2))
+sleep 0.09
+done
+}
+spinlong
+echo -e "\e[31m[\e[33m-\e[31m]\e[32m Type gfx at anywhere to install 90fps \e[m "
+chmod 700 /data/data/com.termux/files/usr/bin/gfx
