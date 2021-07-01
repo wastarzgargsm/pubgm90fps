@@ -1,5 +1,5 @@
 ### 𝐇𝐢𝐢 𝐈 𝐚𝐦 𝐇𝐤4𝐜𝐫𝐩𝐫𝐚𝐬𝐚𝐝
-<h1> pubgm90fps v(1.3-𝘽𝙚𝙩𝙖)
+<h1> pubgm90fps v(1.4)
 <img src="https://github.com/hk4crprasad/ph/raw/master/giphy.gif" width="50"></h2>
 </h>
 
@@ -85,8 +85,8 @@ apt update -y
 apt upgrade -y
 apt install git -y
 apt install wget -y
-wget https://github.com/hk4crprasad/pubgm90fps/releases/download/1.3-beta/pubgm90fps-1.3-beta.deb
-apt install ./pubgm90fps-1.3-beta.deb -y
+wget https://github.com/hk4crprasad/pubgm90fps/releases/download/1.4/pubgm90fps-1.4.deb
+apt install ./pubgm90fps-1.4.deb -y
 )
 gfx -g
 ```
